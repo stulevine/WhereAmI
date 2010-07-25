@@ -1,0 +1,5 @@
+Just a simple example on how to use MapKit with Location information. This app shows you your location and drops a pin with the location info.  The app also displays your Latitude and Longitude along with Elevation and how many feet you've moved since the last read.
+
+Stuart
+
+P.S. - This is really a work in progress and I can say for certain it has bugs.
